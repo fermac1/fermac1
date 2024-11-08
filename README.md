@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, welcome to my personal repository!
 
-I'm Pamela, a web developer
+I'm Pamela, a web developer passionate about building dynamic and user-centric applications.
 
 <!--
 **fermac1/fermac1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
