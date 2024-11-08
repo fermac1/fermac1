@@ -2,7 +2,10 @@
 
 I'm Pamela, a web developer passionate about building dynamic and user-centric applications.
 
-## 🛠 Technologies & Skills
+## 🛠 Technologies
+- Languages: PHP, Javascript
+- Frameworks: Laravel, Vuejs
+- Databases: MySQL, PostgreSQL
 
 
 <!--
