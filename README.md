@@ -7,7 +7,7 @@ I'm Pamela, a web developer passionate about building dynamic and user-centric a
 - Frameworks: Laravel, Vuejs
 - Databases: MySQL, PostgreSQL
 
-
+📚 - I am currently learning React
 <!--
 **fermac1/fermac1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
