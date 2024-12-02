@@ -4,8 +4,8 @@ I'm Pamela, a web developer passionate about building dynamic and user-centric a
 
 ## 🛠 Technologies
 - Languages: PHP, Javascript
-- Frameworks: Laravel, Vuejs
-- Databases: MySQL, PostgreSQL
+- Frameworks: Laravel, Vuejs, React
+- Databases: MySQL, PostgreSQL, SQLite
 
 📚 - I am currently learning React
 
