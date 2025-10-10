@@ -5,10 +5,10 @@ I'm Pamela, a web developer passionate about building dynamic and user-centric a
 ## 🛠 Technologies
 - Languages: PHP, Javascript
 - Frameworks: Laravel, Vuejs, Nuxt, React
-- Databases: MySQL, PostgreSQL, SQLite
-- Others: Bootstrap, Material UI, Pinia, Vue router, Docker
+- Databases: MySQL, PostgreSQL, SQLite, SQL Server
+- Others: Bootstrap, Material UI, Pinia, Vue router, Docker, Shadcn, tailwind, Typescript
 
-📚 - I am currently learning React, Typescript, Nuxt and Shadcn (tailwind)
+📚 - I am currently learning React, .NET, MongoDB
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/pamela-fermac)
