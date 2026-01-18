@@ -8,7 +8,7 @@ I'm Pamela, a software developer passionate about building dynamic and user-cent
 - Databases: MySQL, PostgreSQL, SQLite, SQL Server
 - Others: Bootstrap, Material UI, Pinia, Vue router, Docker, Shadcn, Tailwind, Typescript
 
-📚 - I am currently learning .NET, MongoDB, NodeJS
+📚 - I am currently learning .NET, Python
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/pamela-fermac)
